@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#6366F1;">MAKARA DEVELOPER</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#6366F1;"><span style="color=red";>MAKARA DEVELOPER</span> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Full-Stack+Developer;Passionate+Problem+Solver;Open+Source+Contributor;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
