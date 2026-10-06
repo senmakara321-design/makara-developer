@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_2.jpg" alt="Profile Banner" width="100%" />
+  <img src="./assets/header.jpg" alt="Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#6366F1;">[Your Name]</span> 👋</h1>
