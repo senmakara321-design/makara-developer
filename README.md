@@ -1,7 +1,11 @@
-# <p align="center">Hi there, I'm <span style="color:#6366F1;">[Makara]</span> 👋</p>
+<p align="center">
+  <img src="./assets/header.jpg" alt="Profile Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi there, I'm <span style="color:#6366F1;">[Your Name]</span> 👋</h1>
 
 <p align="center">
-  <img src="https://wallpaperaccess.com/oggy-cartoon?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full-Stack+Developer;Passionate+Problem+Solver;Open+Source+Contributor;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Full-Stack+Developer;Passionate+Problem+Solver;Open+Source+Contributor;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,6 +13,10 @@
   <a href="https://YOUR_PORTFOLIO_WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
