@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#6366F1;">[Your Name]</span> 👋</h1>
