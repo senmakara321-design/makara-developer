@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.jpg" alt="Profile Banner" width="100%" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#6366F1;">[Your Name]</span> 👋</h1>
