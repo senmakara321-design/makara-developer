@@ -1,7 +1,7 @@
 # <p align="center">Hi there, I'm <span style="color:#6366F1;">[Makara]</span> 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full-Stack+Developer;Passionate+Problem+Solver;Open+Source+Contributor;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://wallpaperaccess.com/oggy-cartoon?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full-Stack+Developer;Passionate+Problem+Solver;Open+Source+Contributor;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
